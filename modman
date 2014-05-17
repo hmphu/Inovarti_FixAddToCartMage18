@@ -1,0 +1,4 @@
+app/etc/modules/Inovarti_FixAddToCartMage18.xml
+app/code/local/Inovarti/FixAddToCartMage18/etc/config.xml
+app/code/local/Inovarti/FixAddToCartMage18/Helper/Data.php
+app/code/local/Inovarti/FixAddToCartMage18/Model/Observer.php
